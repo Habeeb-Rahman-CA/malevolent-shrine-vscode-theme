@@ -1,0 +1,21 @@
+{
+  "name": "habrmnc-theme",
+  "displayName": "habrmnc-theme",
+  "description": "ha ha ha yowaimo!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Malevolent Shrine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Malevolent Shrine-color-theme.json"
+      }
+    ]
+  }
+}
