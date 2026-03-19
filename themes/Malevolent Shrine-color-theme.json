@@ -1,10 +1,42 @@
 {
 	"name": "Malevolent Shrine",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#0d0d0d",
+		"editor.foreground": "#f0f0f0",
+		"activityBar.background": "#0d0d0d",
+		"activityBar.foreground": "#f0f0f0",
+		"activityBar.border": "#1e1e1e",
+		"activityBarBadge.background": "#ffffff",
+		"sideBarTitle.foreground": "#ffffff",
+		"sideBarSectionHeader.background": "#0d0d0d",
+		"sideBarSectionHeader.foreground": "#f0f0f0",
+		"sideBarSectionHeader.border": "#1e1e1e",
+		"sideBar.foreground": "#f0f0f0",
+		"sideBar.background": "#0d0d0d",
+		"sideBar.border": "#1e1e1e",
+		"sideBar.dropBackground": "#0d0d0d",
+		"statusBar.background": "#0d0d0d",
+		"statusBar.foreground": "#f0f0f0",
+		"statusBar.border": "#1e1e1e",
+		"statusBarItem.activeBackground": "#0d0d0d",
+		"statusBarItem.hoverBackground": "#181818",
+		"titleBar.activeBackground": "#0d0d0d",
+		"titleBar.activeForeground": "#f0f0f0",
+		"titleBar.border": "#1e1e1e",
+		"titleBar.inactiveBackground": "#0d0d0d",
+		"titleBar.inactiveForeground": "#f0f0f0",
+		"tab.activeBackground": "#0d0d0d",
+		"tab.activeForeground": "#ffffff",
+		"tab.inactiveBackground": "#0d0d0d",
+		"tab.inactiveForeground": "#f0f0f0",
+		"tab.hoverBackground": "#181818",
+		"tab.border": "#1e1e1e",
+		"tab.activeBorder": "#ffffff",
+		"selection.background": "#ffffff",
+		"editor.selectionBackground": "#ffffff18",
+		"editor.selectionHighlightBackground":"#ffffff18",
+		"editor.selectionHighlightBorder":"#ffffff",
+		
 	},
 	"tokenColors": [
 		{
@@ -15,7 +47,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#3f3f3f"
 			}
 		},
 		{
