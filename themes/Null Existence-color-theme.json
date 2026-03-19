@@ -27,7 +27,23 @@
 		"editor.selectionBackground": "#ffffff20",
 		"editor.lineHighlightBackground": "#ffffff08",
 		"terminal.background": "#000000",
-		"terminal.foreground": "#d0d0d0"
+		"terminal.foreground": "#d0d0d0",
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiRed": "#303030",
+		"terminal.ansiGreen": "#a0a0a0",
+		"terminal.ansiYellow": "#d0d0d0",
+		"terminal.ansiBlue": "#404040",
+		"terminal.ansiMagenta": "#707070",
+		"terminal.ansiCyan": "#808080",
+		"terminal.ansiWhite": "#ffffff",
+		"terminal.ansiBrightBlack": "#505050",
+		"terminal.ansiBrightRed": "#606060",
+		"terminal.ansiBrightGreen": "#c0c0c0",
+		"terminal.ansiBrightYellow": "#ffffff",
+		"terminal.ansiBrightBlue": "#707070",
+		"terminal.ansiBrightMagenta": "#909090",
+		"terminal.ansiBrightCyan": "#a0a0a0",
+		"terminal.ansiBrightWhite": "#ffffff"
 	},
 	"tokenColors": [
 		{
