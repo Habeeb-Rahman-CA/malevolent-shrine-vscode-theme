@@ -3,7 +3,7 @@
   "displayName": "Habrmnc Theme",
   "description": "ha ha ha yowaimo!",
   "publisher": "HabeebuRahmanCA",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "icon": "images/themeicon.png",
   "repository": {
     "type": "git",
@@ -18,6 +18,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Habrmnc - Null Existence",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Null Existence-color-theme.json"
+      },
+      {
         "label": "Habrmnc - Malevolent Shrine",
         "uiTheme": "vs-dark",
         "path": "./themes/Malevolent Shrine-color-theme.json"
@@ -26,11 +31,6 @@
         "label": "Habrmnc - Infinite Void",
         "uiTheme": "vs-dark",
         "path": "./themes/Infinite Void-color-theme.json"
-      },
-      {
-        "label": "Habrmnc - Null Existence",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Null Existence-color-theme.json"
       },
       {
         "label": "Habrmnc - Divine Collapse",
