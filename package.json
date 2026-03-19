@@ -1,7 +1,8 @@
 {
   "name": "habrmnc-theme",
-  "displayName": "habrmnc-theme",
+  "displayName": "Malevolent Shrine - Habrmnc",
   "description": "ha ha ha yowaimo!",
+  "publisher": "Habeebu Rahman CA",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.110.0"
